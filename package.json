@@ -1,0 +1,25 @@
+{
+  "name": "aesquerre-js-footer",
+  "version": "0.1.0",
+  "description": "Este modulo permite generar un pie de pagina dinamico generado para aplicaciones de JS con un año y nombre actualizado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnausens/AEsquerre-js-footer.git"
+  },
+  "keywords": [
+    "piedepagina"
+  ],
+  "author": "arnausens <arnauesquerre@hotmail.com> (https://www.npmjs.com/settings/arnausens/profile)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnausens/AEsquerre-js-footer/issues"
+  },
+  "homepage": "https://github.com/arnausens/AEsquerre-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.28.0"
+  }
+}
